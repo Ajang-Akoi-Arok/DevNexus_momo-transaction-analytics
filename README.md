@@ -13,7 +13,8 @@ This project processes MoMo (Mobile Money) SMS data provided in XML format. The 
 
 ## System Architecture
 
-_Link to architecture diagram: _
+<img width="1372" height="3702" alt="MoMo Transaction Analytics System drawio" src="https://github.com/user-attachments/assets/3fd9dea9-c3e5-416b-a982-080de0da77d5" />
+
 
 ## Scrum Board
 
