@@ -18,7 +18,17 @@ This project processes MoMo (Mobile Money) SMS data provided in XML format. The 
 
 ## Scrum Board
 
-_Link to Scrum board: _
+[View Our Scrum Board](https://github.com/users/Ajang-Akoi-Arok/projects/2/views/1)
+
+### Sprint 1 Tasks:
+| Task | Status | Assignee |
+|------|--------|----------|
+| Set up GitHub repository | done | Ajang |
+| Create architecture diagram | done | Chidiebele |
+| Set up Scrum board | done | Sochukwuma |
+| Research XML parsing | To Do | All members |
+| Design database schema | To Do | All members |
+| Research charting libraries | To Do | All members |
 
 ## Project Structure
 
